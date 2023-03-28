@@ -1,0 +1,82 @@
+.bullets {
+  list-style-type: disc !important;
+}
+
+/* ul {
+  list-style-type: none;
+  padding: 0;
+} */
+
+.center {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+}
+
+.line {
+  height: 1px;
+  width: 50%;
+  background-color: black;
+  margin: auto;
+}
+
+.line2 {
+  height: 1px;
+  background-color: black;
+  margin: auto;
+  width: 100px;
+}
+
+.adjust {
+  margin-bottom: 0px;
+  margin-right: 0px;
+}
+
+img {
+  width: 500px;
+  height: 500px;
+  float: right;
+}
+
+.upperAlpha {
+  list-style-type: upper-alpha;
+}
+
+.roman {
+  list-style-type: upper-roman;
+}
+
+.bullets {
+  list-style-type: disc;
+}
+
+.hollow {
+  list-style-type: circle;
+}
+
+.square {
+  list-style-type: square;
+}
+
+.fancy {
+  font-size: 30px;
+  font-style: times;
+}
+
+.color {
+  background-color: red;
+  color: white;
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+}
+
+.cell {
+  background-color: black;
+  color: white;
+}
